@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "calculadora-app",
+    "slug": "snack-82cbdbab-15ca-43a0-b630-18411975e583",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Este projeto consiste no desenvolvimento de uma calculadora mobile utilizando React Native, com suporte às quatro operações básicas: soma, subtração, multiplicação e divisão. A aplicação conta com múltiplas telas, incluindo uma tela inicial de navegação e uma tela de resultado, além de funcionalidades de personalização como tema claro/escuro com Switch e ajuste do tamanho da fonte utilizando Slider."
+  }
+}
